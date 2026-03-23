@@ -1,0 +1,7 @@
+streamlit==1.32.0
+torch==2.2.0
+transformers==4.39.0
+easyocr==1.7.1
+pillow==10.2.0
+numpy==1.26.4
+
